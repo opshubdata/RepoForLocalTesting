@@ -13,3 +13,4 @@ h
 new dummy text
 added new text
 modified
+modified
